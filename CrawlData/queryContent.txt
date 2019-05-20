@@ -1,0 +1,12 @@
+// From search result list
+a = [];
+document.querySelector("ul.compArticleList").querySelectorAll("h4.pb-10 a").forEach(d => a.push(d.href))
+
+
+// From a particular page
+b = [];
+document.querySelectorAll(".content-list-component.yr-content-list-text.text p").forEach(d => b.push(d.textContent))
+
+
+// get url from search page
+fetch('www.huffpost.com/entry/'+$("ul.compArticleList h4.pb-10 a").href.split('/RU=')[1].split('/RK=')[0].replace('https%3a%2f%2fwww.huffingtonpost.com%2fentry%2f','')).then(d=>console.log(d))
