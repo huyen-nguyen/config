@@ -8,3 +8,7 @@
         - If you add the DND menu to the menu bar (System Preferences / Dock & Menu Bar / Do Not Disturb), it will not gray out the clock like that when DND is on.
 
     - If you don't want to see the icon on menu bar, you can check the box for Focus to `Show in Menu Bar` (-> Clock shown in clear) then uncheck that box. The clock remains clear, but the icon is gone. However this setting will be lost upon restart/shutdown.
+
+- **CPU temperature**
+
+      sudo powermetrics --samplers smc -i1 -n1
