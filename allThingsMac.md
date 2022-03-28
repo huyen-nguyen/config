@@ -12,3 +12,21 @@
 - **CPU temperature**
 
       sudo powermetrics --samplers smc -i1 -n1
+
+- **Install 7zip** ([answer from superuser](https://superuser.com/a/667076/988063))
+
+   First update your brew to be sure you are getting the latest p7zip
+      
+      brew update
+      
+   Use Homebrew to install p7zip:
+
+      brew install p7zip
+      
+   Add all files in the `coffee` directory to the compressed file `press.7z`:
+
+      7z a press.7z coffee
+
+   Unzip `press.7z`:
+
+      7z x press.7z
