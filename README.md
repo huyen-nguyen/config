@@ -1,6 +1,6 @@
 # Config
 
-https://huyen-nguyen.github.io/Config/
+https://huyen-nguyen.github.io/config/
 
 ## CSS reference
 All classes: https://www.w3schools.com/w3css/w3css_references.asp
