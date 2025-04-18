@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d7798cde-7369-440f-a608-f8372ab1028b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LG4K/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Config.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MBP15/.idea/MBP15.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MBP15/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MBP15/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MBP15/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MBP15/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MBP15/detail/details.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrainsIDE-ChromeExtension/hmhgeddbohgjknpmjagkdomcpobmllji/2.0.10_0/_metadata/computed_hashes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrainsIDE-ChromeExtension/hmhgeddbohgjknpmjagkdomcpobmllji/2.0.10_0/_metadata/verified_contents.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +23,12 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectFrameBounds">
     <option name="x" value="658" />
     <option name="y" value="23" />
@@ -69,19 +67,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
@@ -107,6 +105,7 @@
       <workItem from="1556515581878" duration="1448000" />
       <workItem from="1556518440008" duration="581000" />
       <workItem from="1636522475527" duration="902000" />
+      <workItem from="1708027192709" duration="1200000" />
     </task>
     <servers />
   </component>
