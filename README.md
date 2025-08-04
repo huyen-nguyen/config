@@ -2,6 +2,15 @@
 
 https://huyen-nguyen.github.io/config/
 
+## Set up venv
+
+    python -m venv .venv
+    source .venv/bin/activate
+
+## Allow showing hidden files in Jupyter Lab
+
+    jupyter lab --ContentsManager.allow_hidden=True
+
 ## CSS reference
 All classes: https://www.w3schools.com/w3css/w3css_references.asp
 
