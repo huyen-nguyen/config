@@ -7,6 +7,10 @@ https://huyen-nguyen.github.io/config/
     python -m venv .venv
     source .venv/bin/activate
 
+## Install the required dependencies:
+
+    python3 -m pip install -r requirements.txt
+
 ## Allow showing hidden files in Jupyter Lab
 
     jupyter lab --ContentsManager.allow_hidden=True
