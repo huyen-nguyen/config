@@ -4,10 +4,10 @@ https://huyen-nguyen.github.io/config/
 
 ## Set up react project same level as created repo `my-app`
 ```bash
-    cd my-app
-    pnpm create vite . # mind the dot
-    pnpm install
-    pnpm run dev
+cd my-app
+pnpm create vite . # mind the dot
+pnpm install
+pnpm run dev
 ```
 ## Set up venv
 
